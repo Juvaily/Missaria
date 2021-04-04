@@ -1,0 +1,44 @@
+body{
+  position: relative;
+}
+.container{
+  max-width: 1500px;
+  margin:  30px 150px;
+  margin-right: auto;
+  margin-left: auto; 
+ 
+}
+
+ul {
+  float:right;
+  
+}
+li{
+ margin:0px 50px;
+ font-family: montserrat;
+ font-style:normal;
+ font-weight: 500;
+ font-size: 24px;
+ line-height: 29px;
+}
+a{
+  text-decoration: none;
+  color: black;
+}
+ul li {
+ display: inline; 
+}
+.social{
+  margin:20px;
+}
+.logo{
+  padding:0 10px;
+}
+
+.devider{
+    padding: 30px;
+}
+nav{
+ 
+  
+}
